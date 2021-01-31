@@ -1,0 +1,116 @@
+[
+  {
+    "id": {
+      "S": "d769abe7ca1d27e4129d5fd5ce137324df12dec2"
+    },
+    "price": {
+      "N": "135000"
+    },
+    "monthly_charge": {
+      "N": "55"
+    },
+    "floor": {
+      "S": "3"
+    },
+    "n_rooms": {
+      "N": "2"
+    },
+    "n_bathrooms": {
+      "N": "1"
+    },
+    "n_parking_spaces": {
+      "NULL": true
+    },
+    "surface": {
+      "N": "52"
+    },
+    "condition": {
+      "S": "BEST"
+    },
+    "type": {
+      "S": "FLAT"
+    },
+    "heating": {
+      "S": "INDEPENDENT"
+    },
+    "ownership": {
+      "S": "FULL"
+    },
+    "year_of_construction": {
+      "N": "2012"
+    },
+    "published_on": {
+      "S": "2021-01-13"
+    },
+    "location": {
+      "M": {
+        "address": {
+          "S": "Via S. Pancrazio 4"
+        },
+        "city": {
+          "S": "Torino"
+        }
+      }
+    },
+    "contract": {
+      "S": "SALE"
+    }
+  },
+  {
+    "id": {
+      "S": "9c6438cabfa6cbb3f16626522201d0504759b7a7"
+    },
+    "price": {
+      "N": "79000"
+    },
+    "monthly_charge": {
+      "N": "40"
+    },
+    "floor": {
+      "S": "R"
+    },
+    "n_rooms": {
+      "N": "2"
+    },
+    "n_bathrooms": {
+      "N": "1"
+    },
+    "n_parking_spaces": {
+      "NULL": true
+    },
+    "surface": {
+      "N": "50"
+    },
+    "condition": {
+      "S": "BEST"
+    },
+    "type": {
+      "S": "FLAT"
+    },
+    "heating": {
+      "S": "INDEPENDENT"
+    },
+    "ownership": {
+      "S": "FULL"
+    },
+    "year_of_construction": {
+      "N": "1940"
+    },
+    "published_on": {
+      "S": "2021-01-11"
+    },
+    "location": {
+      "M": {
+        "address": {
+          "S": "Via Perosa 12"
+        },
+        "city": {
+          "S": "Torino"
+        }
+      }
+    },
+    "contract": {
+      "S": "SALE"
+    }
+  }
+]
